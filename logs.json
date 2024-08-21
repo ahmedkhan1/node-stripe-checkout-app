@@ -1,0 +1,24 @@
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":4380,"level":50,"msg":"Error creating Stripe Checkout Session: Cannot read properties of undefined (reading 'sessions')","time":"2024-08-14T11:58:21.672Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":4380,"level":50,"msg":"Error message: Cannot read properties of undefined (reading 'sessions')","time":"2024-08-14T11:58:21.673Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":18228,"level":50,"msg":"Error creating Stripe Checkout Session: Cannot read properties of undefined (reading 'sessions')","time":"2024-08-14T11:58:53.891Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":18228,"level":50,"msg":"Error message: Cannot read properties of undefined (reading 'sessions')","time":"2024-08-14T11:58:53.893Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":23564,"level":50,"msg":"Error creating Stripe Checkout Session: Cannot read properties of undefined (reading 'sessions')","time":"2024-08-14T12:00:41.613Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":23564,"level":50,"msg":"Error message: Cannot read properties of undefined (reading 'sessions')","time":"2024-08-14T12:00:41.615Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":14164,"level":50,"msg":"Error creating Stripe Checkout Session: Cannot read properties of undefined (reading 'sessions')","time":"2024-08-14T12:01:25.880Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":14164,"level":50,"msg":"Error message: Cannot read properties of undefined (reading 'sessions')","time":"2024-08-14T12:01:25.883Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":21996,"level":50,"msg":"Error creating Stripe Checkout Session: Cannot read properties of undefined (reading 'sessions')","time":"2024-08-14T12:01:55.166Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":21996,"level":50,"msg":"Error message: Cannot read properties of undefined (reading 'sessions')","time":"2024-08-14T12:01:55.167Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":23240,"level":50,"msg":"Error creating Stripe Checkout Session: Cannot read properties of undefined (reading 'sessions')","time":"2024-08-14T12:04:45.155Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":23240,"level":50,"msg":"Error message: Cannot read properties of undefined (reading 'sessions')","time":"2024-08-14T12:04:45.156Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":4488,"level":50,"msg":"Error creating Stripe Checkout Session: Cannot read properties of undefined (reading 'sessions')","time":"2024-08-14T12:06:37.721Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":4488,"level":50,"msg":"Error message: Cannot read properties of undefined (reading 'sessions')","time":"2024-08-14T12:06:37.722Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":12396,"level":50,"msg":"Error creating Stripe Checkout Session: Cannot read properties of undefined (reading 'sessions')","time":"2024-08-14T12:07:51.973Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":12396,"level":50,"msg":"Error message: Cannot read properties of undefined (reading 'sessions')","time":"2024-08-14T12:07:51.975Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":24528,"level":50,"msg":"Error creating Stripe Checkout Session: The Checkout Session's total amount must convert to at least 30 pence. $0.11 converts to approximately £0.09.","time":"2024-08-14T12:13:51.307Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":24528,"level":50,"msg":"Error message: The Checkout Session's total amount must convert to at least 30 pence. $0.11 converts to approximately £0.09.","time":"2024-08-14T12:13:51.310Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":21388,"level":50,"msg":"Error creating Stripe Checkout Session: Received unknown parameters: unit_amount, product_data","time":"2024-08-14T13:44:25.721Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":21388,"level":50,"msg":"Error message: Received unknown parameters: unit_amount, product_data","time":"2024-08-14T13:44:25.723Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":21388,"level":50,"msg":"Error creating Stripe Checkout Session: Received unknown parameters: unit_amount, product_data","time":"2024-08-14T13:44:32.357Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":21388,"level":50,"msg":"Error message: Received unknown parameters: unit_amount, product_data","time":"2024-08-14T13:44:32.360Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":7824,"level":50,"msg":"Error message: Webhook Error: No webhook payload was provided.","time":"2024-08-14T18:08:58.927Z","v":0}
+{"name":"node-app","hostname":"LAPTOP-159HFHKS","pid":3448,"level":50,"msg":"Error message: Webhook Error: No webhook payload was provided.","time":"2024-08-14T18:17:52.758Z","v":0}
