@@ -1,3 +1,3 @@
-# Sass-backend
+# Node-Stripe-Checkout-App
 
-This project includes APIs for Sass backend
+This project includes APIs for Stripe backend
